@@ -75,7 +75,7 @@ Essa hipótese surge a partir da chamada [progressão continuada](https://www.bb
 
 Estados que possuem progressão continuada:
 
-![image.png](taxa_transicao_analise_files/image.png)
+![image.png](image/image.png)
 
 Fonte: [progressão continuada](https://www.bbc.com/portuguese/articles/c72y0zqnvk1o)
 
@@ -1065,13 +1065,13 @@ display(
 
 
     
-![png](taxa_transicao_analise_files/taxa_transicao_analise_23_0.png)
+![png](image/taxa_transicao_analise_23_0.png)
     
 
 
 
     
-![png](taxa_transicao_analise_files/taxa_transicao_analise_23_1.png)
+![png](image/taxa_transicao_analise_23_1.png)
     
 
 
@@ -1106,7 +1106,7 @@ df_ensino_loc_group = (
 
 
     
-![png](taxa_transicao_analise_files/taxa_transicao_analise_26_0.png)
+![png](image/taxa_transicao_analise_26_0.png)
     
 
 
@@ -1407,13 +1407,13 @@ for ensino in coord_ibge["ensino"].unique():
 
 
     
-![png](taxa_transicao_analise_files/taxa_transicao_analise_34_0.png)
+![png](image/taxa_transicao_analise_34_0.png)
     
 
 
 
     
-![png](taxa_transicao_analise_files/taxa_transicao_analise_34_1.png)
+![png](image/taxa_transicao_analise_34_1.png)
     
 
 
@@ -1815,7 +1815,7 @@ for ensino in df_regiao["ensino"].unique():
 
 
     
-![png](taxa_transicao_analise_files/taxa_transicao_analise_41_1.png)
+![png](image/taxa_transicao_analise_41_1.png)
     
 
 
@@ -1824,7 +1824,7 @@ for ensino in df_regiao["ensino"].unique():
 
 
     
-![png](taxa_transicao_analise_files/taxa_transicao_analise_41_3.png)
+![png](image/taxa_transicao_analise_41_3.png)
     
 
 
@@ -1857,7 +1857,7 @@ for ensino in df_regiao["ensino"].unique():
 
 
     
-![png](taxa_transicao_analise_files/taxa_transicao_analise_42_1.png)
+![png](image/taxa_transicao_analise_42_1.png)
     
 
 
@@ -1866,7 +1866,7 @@ for ensino in df_regiao["ensino"].unique():
 
 
     
-![png](taxa_transicao_analise_files/taxa_transicao_analise_42_3.png)
+![png](image/taxa_transicao_analise_42_3.png)
     
 
 
@@ -1894,7 +1894,7 @@ No entanto, no ensino fundamental da rede privada essa taxa caiu, sendo muito di
 
 
     
-![png](taxa_transicao_analise_files/taxa_transicao_analise_45_0.png)
+![png](image/taxa_transicao_analise_45_0.png)
     
 
 
@@ -2030,7 +2030,7 @@ No gráficos a seguir pode se obsevar que para a rede publica em 2019 e 2020 as 
 
 
     
-![png](taxa_transicao_analise_files/taxa_transicao_analise_49_0.png)
+![png](image/taxa_transicao_analise_49_0.png)
     
 
 
@@ -2057,7 +2057,7 @@ Analisando o gráfico plotado anteriormente, a reposta é **não**, durante todo
 
 
     
-![png](taxa_transicao_analise_files/taxa_transicao_analise_52_0.png)
+![png](image/taxa_transicao_analise_52_0.png)
     
 
 
@@ -2069,7 +2069,7 @@ Foi escolhido Parana e São Paulo, por possuirem politicas diferentes e economia
 
 Fonte: [BBC - progressão continuada](https://www.bbc.com/portuguese/articles/c72y0zqnvk1o)
 
-![image.png](taxa_transicao_analise_files/image.png)
+![image.png](image/image.png)
 
 Primeiramente analisando a taxa ao longo dos anos, podemos ver que em SP devido a politica ela sobe de forma mais **acentuada**, principalmente para o ensino médio, enquanto no Paraná a taxa fica abaixo de 80% até 2019 e subiu provavelmente por conta da pandemia
 
@@ -2099,7 +2099,7 @@ df_SP = (
 
 
     
-![png](taxa_transicao_analise_files/taxa_transicao_analise_57_0.png)
+![png](image/taxa_transicao_analise_57_0.png)
     
 
 
@@ -2233,7 +2233,7 @@ O gráfico a seguir apresenta muito bem como a progressão continuada funciona, 
 
 
     
-![png](taxa_transicao_analise_files/taxa_transicao_analise_61_0.png)
+![png](image/taxa_transicao_analise_61_0.png)
     
 
 
